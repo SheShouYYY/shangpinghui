@@ -1,0 +1,26 @@
+[
+    {
+        "consignnee": "梅西",
+        "fullAddress": "法国巴黎巴黎圣日耳曼足球俱乐部",
+        "id": "10",
+        "phoneNum": "145882651",
+        "isDefault": "1",
+        "isChecked": "1"
+    },
+    {
+        "consignnee": "C罗",
+        "fullAddress": "西班牙马德里皇家马德里俱乐部",
+        "id": "7",
+        "phoneNum": "802300",
+        "isDefault": "0",
+        "isChecked": "0"
+    },
+    {
+        "consignnee": "卡塞米罗",
+        "fullAddress": "英格兰曼彻斯特联俱乐部",
+        "id": "18",
+        "phoneNum": "180302517",
+        "isDefault": "0",
+        "isChecked": "0"
+    }
+]
